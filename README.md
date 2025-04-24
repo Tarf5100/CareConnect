@@ -29,7 +29,14 @@
       <li>Place the project in your server root (e.g., XAMPP’s <code>htdocs</code>)</li>
       <li>Access the project via your browser at <code>http://localhost/careconnect</code></li>
     </ol>
-    <hr style="margin-top: 40px;">
+     <h2 style="margin-top: 30px;">Team Members</h2>
+    <ul>
+      <li>Tarfah Bin Moammar</li>
+      <li>Haya AlFayez</li>
+      <li>Reuof Alanazi</li>
+      <li>Ghala Musallam</li>
+    </ul>
+     <hr style="margin-top: 40px;">
     <p style="text-align: center; color: #777;">© 2025 CareConnect. All rights reserved.</p>
   </div>
 </body>
