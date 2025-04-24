@@ -3,7 +3,7 @@
     <h1 style="color: #0066cc;">CareConnect</h1>
     <p>A web-based clinic management system that streamlines appointment booking for patients and schedule management for doctors.</p>
     <h2 style="margin-top: 20px;">🌐 Live Website</h2>
-    <p><strong>Coming Soon:</strong> <a href="#" style="color: #0066cc;">[Website Link Here]</a></p>
+    <p><a href="https://careconnect1.infinityfreeapp.com/careconnect/PhpProject1/index.php" style="color: #0066cc;">[Website Link Here]</a></p>
     <h2 style="margin-top: 30px;">🔧 Technologies Used</h2>
     <ul>
       <li>HTML, CSS, JavaScript</li>
